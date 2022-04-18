@@ -2,6 +2,8 @@ import  random
 from kata import kata_kata
 import string
 
+print("Beginner Project : Hangman")
+
 def dapatkan_kata(kata_kata):
     kata = random.choice(kata_kata)
     while '-' in kata or ' ' in kata:
