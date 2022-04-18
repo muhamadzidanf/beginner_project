@@ -1,6 +1,7 @@
 import  random
 import string
 
+print("Beginner Preoject : SUIT Jepang")
 def main():
     user = ''
     komputer = ''

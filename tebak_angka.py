@@ -1,5 +1,6 @@
 import random
 
+print("Beginer Project : Menebak angka dan Memeberi tebakan angka")
 def tebak(x):
     angka_random = random.randint(1, x)
     angka = 0
